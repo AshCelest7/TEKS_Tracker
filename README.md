@@ -25,6 +25,7 @@ The linking formula used (=IFERROR(INDEX(...))) pulls data from the master table
 Rows are Organized by TEKS standards.
 Columns are Labeled as test names, averages, maximum score, and recent score.
 The sheet can be filtered to show only the TEKS that have been tested.
+![Main Dashboard](main-dashboard.PNG)
 
 Conditional Formatting:
 
