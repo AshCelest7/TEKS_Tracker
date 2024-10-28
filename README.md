@@ -57,6 +57,7 @@ Maximum Score:
   =IF(MAX(B7:G7)>0, MAX(B7:G7),"")
 
 Donut Chart: The donut chart provides a visual summary of performance on a specific TEKS (e.g., 8.8c). standard by comparing the 'Recent Score' to the 'Max Score.' The inner circle represents the highest score achieved (the potential), while the shaded area represents the most recent score, showing how close students are to meeting or exceeding prior benchmarks. By visually comparing these scores, the donut chart shows whether recent assessments match or fall short of past performance, allowing teachers to identify standards where knowledge retention is strong or where reteaching may be required.
+![Max Vs. Recent TEKS Score](max-vs-recent-score.PNG)
 Key Features
 
   Dynamic Data Updates: The tracker is continuously updated throughout the     year as new assessments are conducted and new TEKS are tested.
