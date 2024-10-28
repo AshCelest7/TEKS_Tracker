@@ -43,6 +43,7 @@ To track student progress and performance trends, several types of charts and gr
   Visualizes the performance of each TEKS standard over time.
   X-axis: Test names (e.g., “1st Blue Assessment”).
   Y-axis: Averages of each TEKS, represented by different lines.
+  ![TEKS Growth Tracker](teks-growth-tracker-line-graph.PNG)
 
   Bar Chart:
   Compares the most recent score for each TEKS with its maximum score. The maximum score metric provides a benchmark for each TEKS standard, repesenting the highest achievement level reached to date. The recent score reflects the latest student prfommance, offering a snapshot of current understanding. By comparing these two scores, teachers can identify retention of knowledge over time and determine whether recent intervetions or instructional adjustments are effective. 
